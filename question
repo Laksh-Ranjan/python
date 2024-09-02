@@ -1,0 +1,31 @@
+# # 1.WAP TO CHECK WHETHER NUMBER IS POSITIVE OR NOT.
+
+# num= int(input("enter your POSITIVE/negative number:"))
+# if num>=1:
+#     print("number is positive number :",num)
+# else:
+#     print("number is negative number :",num)
+
+# # 2.WAP TO CHECK WHETHER THE PERSON IS ELIGIBLE TO MARRY OR NOT.
+
+# age =int(input("enter your age:"))
+# if age>=25:
+#     print("you are eligible to marry")
+# else:
+#     print("wait for years")    
+
+# # 3.WAP TO PRINT GOODMORNING WHEN THE NO IS 8.
+
+# tim =int(input("enter 8 :"))
+# if tim==8:
+#     print("good morning")
+# else:
+#     print("good afternoon")
+
+# # 4.WAP TO DISPLAY MESSAGE GOOD MORNING WHEN NUMBER IS 8 AND NUMBER EQUALS TO 10 AND NUMBER EQUALS TO 11.
+
+# time=int(input("enter number 8,10,11:"))
+# if time==8 or time==10 or time==11:
+#     print("good morning")
+# else:
+#     print("good afternoon")
