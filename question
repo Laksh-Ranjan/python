@@ -1,4 +1,4 @@
-# # 1.WAP TO CHECK WHETHER NUMBER IS POSITIVE OR NOT.
+# #  1.WAP TO CHECK WHETHER NUMBER IS POSITIVE OR NOT.
 
 # num= int(input("enter your POSITIVE/negative number:"))
 # if num>=1:
